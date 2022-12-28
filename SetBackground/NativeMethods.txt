@@ -1,0 +1,4 @@
+﻿IDesktopWallpaper
+DesktopWallpaper
+EnumDisplayDevices
+EDD_GET_DEVICE_INTERFACE_NAME
